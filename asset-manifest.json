@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.89473ef2.css",
+    "main.js": "/static/js/main.f0c1f436.js",
+    "static/js/27.07bc2567.chunk.js": "/static/js/27.07bc2567.chunk.js",
+    "static/media/backgroundlawn.jpg": "/static/media/backgroundlawn.4cdec630298caeedcd92.jpg",
+    "static/media/logolawnmanager.png": "/static/media/logolawnmanager.75deeab96a6e52cd57c4.png",
+    "static/media/Avatar_icon_green.svg.png": "/static/media/Avatar_icon_green.svg.0097393dcf655300716d.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.89473ef2.css",
+    "static/js/main.f0c1f436.js"
+  ]
+}
