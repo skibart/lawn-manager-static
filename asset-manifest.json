@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.6acee332.css",
-    "main.js": "/static/js/main.dec7996a.js",
+    "main.js": "/static/js/main.89b153dd.js",
     "static/js/27.07bc2567.chunk.js": "/static/js/27.07bc2567.chunk.js",
-    "static/media/backgroundlawn.jpg": "/static/media/backgroundlawn.4cdec630298caeedcd92.jpg",
+    "static/media/backgroundlawn.jpg": "/static/media/backgroundlawn.1a6f9dc3779ec97f7177.jpg",
     "static/media/logolawnmanager.png": "/static/media/logolawnmanager.75deeab96a6e52cd57c4.png",
     "static/media/Avatar_icon_green.svg.png": "/static/media/Avatar_icon_green.svg.0097393dcf655300716d.png",
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.6acee332.css",
-    "static/js/main.dec7996a.js"
+    "static/js/main.89b153dd.js"
   ]
 }
